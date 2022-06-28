@@ -14,3 +14,6 @@
 - Hook useState
 - Add Listener to RNShake
 - Lifecicly ReactJS
+
+
+[Abaixe o APK](https://github.com/TiagoMerc/dio-flashlight/releases/tag/1.0.0)
